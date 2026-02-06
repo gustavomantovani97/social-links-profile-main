@@ -8,6 +8,8 @@ Uma solução responsiva para o desafio **Social Links Profile** do Frontend M
 
 ## 🎯 O Desafio
 
+ㅤ
+
 O objetivo era desenvolver um componente de perfil com links sociais que fosse:
 
 - **Totalmente responsivo** (mobile e desktop)
@@ -31,6 +33,8 @@ O objetivo era desenvolver um componente de perfil com links sociais que fosse:
 ㅤ
 
 ## 🤝 Agradecimentos
+
+ㅤ
 
 - Desafio proporcionado por [Frontend Mentor](https://www.frontendmentor.io/)
 
