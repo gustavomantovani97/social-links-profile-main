@@ -20,6 +20,8 @@ O objetivo era desenvolver um componente de perfil com links sociais que fosse:
 
 - **Acessível** e semanticamente correto
 
+ㅤ
+
 **Funcionalidades principais:**
 
 - Layout de perfil com foto, nome, localização e bio
